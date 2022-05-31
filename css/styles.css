@@ -1,0 +1,31 @@
+#miFoto{
+    align-items: center;
+    margin-left:790px;
+    margin-right: 670px;
+    width: 300px; 
+}
+
+h1{
+    text-align: center;
+    margin-right: 0%;
+    color:#005677 ;
+    background-color:#C4C4C4 ;
+}
+h3{
+    font-size: 20px;
+    color:#005677 ;
+    background-color:#C4C4C4 ;
+    margin-right: 0%;
+}
+ul {
+    list-style-type: none ;
+}
+span{
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    color:#FFFFFF ;
+    background-color:#005677 ;
+    font-size:18px ;
+}
