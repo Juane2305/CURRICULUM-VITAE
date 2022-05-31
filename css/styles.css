@@ -5,11 +5,12 @@
     width: 300px; 
 }
 
-h1{
+#titulo-principal{
     text-align: center;
     margin-right: 0%;
     color:#005677 ;
     background-color:#C4C4C4 ;
+    font-size: 35px;
 }
 h3{
     font-size: 20px;
