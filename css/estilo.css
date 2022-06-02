@@ -13,34 +13,34 @@ body{
     width: 300px; 
     margin-top: 5px;
 }
-
-#titulo-principal{
-    text-align: center;
-    margin-right: 0%;
-    color:#005677 ;
-    background-color:#C4C4C4 ;
-    font-size: 35px;
-}
-h3{
+p{
+    padding: 20px;
+    font-style: italic;
     font-size: 20px;
-    color:#005677 ;
+    text-align: justify;
+}
+main a{
+    text-decoration: none;
+    color: rgba(33, 53, 235, 0.5);
+}
+h1{
     background-color:#C4C4C4 ;
-}
-ul {
-    list-style-type: none ;
-}
-span{
-    font-weight: bold;
+    color:#005677;
 }
 footer{
     text-align: center;
     color:#FFFFFF ;
     background-color:#005677 ;
     font-size:18px ;
+    padding: 0,2px;
 }
+
 #footer-span{
     margin-top: 20px;
 }
 .fa-brands{
     color:rgb(0, 255, 255) ;
+}
+footer p{
+    text-align: center;
 }
